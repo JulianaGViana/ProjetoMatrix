@@ -27,5 +27,7 @@ function multiplicarInteiros(n){
   if(validCheck(n)) return multiplicar(n);
 }
 
-//Exercícios otimizados com encapsulamento e recursividade
-//Juliana Galante Viana
+/*
+ExercÃ­cios de recursividade otimizados e com encapsulamento
+Juliana Galante Viana
+*/
