@@ -14,5 +14,7 @@ function somarInteiros(n){
   }
 }
 
-//Exercício 1 otimizado com encapsulamento
-//Juliana Galante Viana
+/*
+ExercÃ­cio 1: Otimizado com encapsulamento
+Juliana Galante Viana
+*/
