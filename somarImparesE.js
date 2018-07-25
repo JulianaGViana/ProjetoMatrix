@@ -14,5 +14,7 @@ function somarImpares(n){
   }
 }
 
-//Exerc�cio 2 otimizado com encapsulamento
-//Juliana Galante Viana
+/*
+Função otimizada e com encapsulamento para somar inteiros ímpares
+Juliana Galante Viana
+*/
