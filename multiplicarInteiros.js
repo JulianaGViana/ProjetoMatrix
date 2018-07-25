@@ -15,5 +15,7 @@ function multiplicarInteiros(n){
   }
 }
 
-//Exerc�cio 3 - Multiplicar Inteiros com encapsulamento
-//Juliana Galante Viana
+/*
+Exercício 3 - Função para multiplicar inteiros otimizada e com encapsulamento
+Juliana Galante Viana
+*/
