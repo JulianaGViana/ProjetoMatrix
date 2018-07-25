@@ -15,6 +15,6 @@ function somarInteiros(n){
 }
 
 /*
-Exercício 1: Função otimizada e com encapsulamento para somar inteiros
+Função para somar inteiros otimizada e com encapsulamento
 Juliana Galante Viana
 */
