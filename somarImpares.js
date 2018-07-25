@@ -8,5 +8,7 @@ function somarImpares(n){
   }
 }
 
-//Exerc�cio 2 Otimizado - Somar �mpares
-//Juliana Galante Viana
+/*
+Exercício 2: Função para somar ímpares otimizada
+Juliana Galante Viana
+*/
