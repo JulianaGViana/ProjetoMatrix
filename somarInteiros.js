@@ -8,5 +8,7 @@ function somarInteiros(n){
   }
 }
 
-//Exerc�cio 1 Otimizado - Somar Inteiros
-//Juliana Galante Viana
+/*
+Exercício 1: Função otimizada para somar inteiros
+Juliana Galante Viana
+*/
